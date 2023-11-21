@@ -1,17 +1,34 @@
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.DataAcces.deps.json
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.DataAcces.dll
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.DataAcces.pdb
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.Common.dll
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.Domain.dll
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.Common.pdb
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Debug\net6.0\PRY.Domain.pdb
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.csproj.AssemblyReference.cache
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.AssemblyInfoInputs.cache
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.AssemblyInfo.cs
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.csproj.CoreCompileInputs.cache
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.csproj.CopyComplete
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.dll
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\refint\PRY.DataAcces.dll
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\PRY.DataAcces.pdb
-D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Debug\net6.0\ref\PRY.DataAcces.dll
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.DataAcces.deps.json
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.DataAcces.dll
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.DataAcces.pdb
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.Common.dll
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.Domain.dll
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.Common.pdb
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/bin/Debug/net6.0/PRY.Domain.pdb
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.csproj.AssemblyReference.cache
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.AssemblyInfoInputs.cache
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.AssemblyInfo.cs
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.csproj.CoreCompileInputs.cache
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.csproj.CopyComplete
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.dll
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/refint/PRY.DataAcces.dll
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.pdb
+D:/ProyectoIntegradorFrontEnd/PRY.Acces/obj/Debug/net6.0/ref/PRY.DataAcces.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.DataAcces.deps.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.DataAcces.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.DataAcces.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.Domain.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.Common.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/bin/Debug/net6.0/PRY.Domain.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.csproj.CopyComplete
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/refint/PRY.DataAcces.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/PRY.DataAcces.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/Debug/net6.0/ref/PRY.DataAcces.dll
