@@ -1,0 +1,12 @@
+D:\ProyectoIntegradorFrontEnd\PRY.Common\bin\Debug\net6.0\PRY.Common.deps.json
+D:\ProyectoIntegradorFrontEnd\PRY.Common\bin\Debug\net6.0\PRY.Common.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Common\bin\Debug\net6.0\PRY.Common.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.csproj.AssemblyReference.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.AssemblyInfoInputs.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.AssemblyInfo.cs
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.csproj.CoreCompileInputs.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\refint\PRY.Common.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\PRY.Common.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Common\obj\Debug\net6.0\ref\PRY.Common.dll

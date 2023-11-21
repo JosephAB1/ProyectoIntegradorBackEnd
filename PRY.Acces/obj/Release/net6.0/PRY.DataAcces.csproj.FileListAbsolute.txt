@@ -1,0 +1,17 @@
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.DataAcces.deps.json
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.DataAcces.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.DataAcces.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.Common.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.Domain.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.Common.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\bin\Release\net6.0\PRY.Domain.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.csproj.AssemblyReference.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.AssemblyInfoInputs.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.AssemblyInfo.cs
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.csproj.CoreCompileInputs.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.csproj.CopyComplete
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\refint\PRY.DataAcces.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\PRY.DataAcces.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Acces\obj\Release\net6.0\ref\PRY.DataAcces.dll

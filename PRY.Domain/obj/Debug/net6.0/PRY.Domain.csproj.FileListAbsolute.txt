@@ -1,0 +1,12 @@
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\bin\Debug\net6.0\PRY.Domain.deps.json
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\bin\Debug\net6.0\PRY.Domain.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\bin\Debug\net6.0\PRY.Domain.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.csproj.AssemblyReference.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.AssemblyInfoInputs.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.AssemblyInfo.cs
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.csproj.CoreCompileInputs.cache
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\refint\PRY.Domain.dll
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.pdb
+D:\ProyectoIntegradorFrontEnd\PRY.Domain\obj\Debug\net6.0\ref\PRY.Domain.dll
