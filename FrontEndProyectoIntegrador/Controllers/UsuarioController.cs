@@ -6,6 +6,7 @@ namespace PRY.APi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
     public class UsuarioController : ControllerBase
     {
         private readonly IUsuarioService _service;

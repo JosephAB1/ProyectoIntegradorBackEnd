@@ -1,69 +1,148 @@
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\appsettings.Development.json
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\appsettings.json
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.API.exe
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.API.deps.json
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.API.runtimeconfig.json
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.API.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.API.pdb
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Azure.Core.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Azure.Identity.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Dapper.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Memory.Data.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.Common.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.DataAcces.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.Domain.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.DataAcces.pdb
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.Common.pdb
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\bin\Debug\net6.0\PRY.Domain.pdb
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.csproj.AssemblyReference.cache
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.AssemblyInfoInputs.cache
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.AssemblyInfo.cs
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.csproj.CoreCompileInputs.cache
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.MvcApplicationPartsAssemblyInfo.cs
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.MvcApplicationPartsAssemblyInfo.cache
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\staticwebassets.build.json
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\staticwebassets.development.json
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\scopedcss\bundle\PRY.API.styles.css
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.csproj.CopyComplete
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\refint\PRY.API.dll
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.pdb
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\PRY.API.genruntimeconfig.cache
-D:\ProyectoIntegradorFrontEnd\FrontEndProyectoIntegrador\obj\Debug\net6.0\ref\PRY.API.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/appsettings.Development.json
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/appsettings.json
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.exe
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.deps.json
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.runtimeconfig.json
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.pdb
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Azure.Core.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Azure.Identity.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Dapper.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Memory.Data.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Common.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.DataAcces.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Domain.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.DataAcces.pdb
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Common.pdb
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Domain.pdb
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.csproj.AssemblyReference.cache
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.AssemblyInfoInputs.cache
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.AssemblyInfo.cs
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.csproj.CoreCompileInputs.cache
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.MvcApplicationPartsAssemblyInfo.cs
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.MvcApplicationPartsAssemblyInfo.cache
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets.build.json
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets.development.json
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/scopedcss/bundle/PRY.API.styles.css
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.csproj.CopyComplete
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/refint/PRY.API.dll
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.pdb
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.genruntimeconfig.cache
+D:/ProyectoIntegradorFrontEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/ref/PRY.API.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/appsettings.Development.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/appsettings.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.deps.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.runtimeconfig.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.API.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Azure.Core.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Azure.Identity.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Dapper.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Common.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.DataAcces.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Domain.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.DataAcces.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Common.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/PRY.Domain.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets/msbuild.PRY.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets/msbuild.build.PRY.API.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PRY.API.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PRY.API.props
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets.build.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/staticwebassets.development.json
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/scopedcss/bundle/PRY.API.styles.css
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.csproj.CopyComplete
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/refint/PRY.API.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.pdb
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/PRY.API.genruntimeconfig.cache
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/Debug/net6.0/ref/PRY.API.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
