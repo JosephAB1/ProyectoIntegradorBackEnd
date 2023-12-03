@@ -1,38 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/PRY.API.csproj": {}
+    "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\FrontEndProyectoIntegrador\\PRY.API.csproj": {}
   },
   "projects": {
-    "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/PRY.API.csproj": {
+    "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\FrontEndProyectoIntegrador\\PRY.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/PRY.API.csproj",
+        "projectUniqueName": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\FrontEndProyectoIntegrador\\PRY.API.csproj",
         "projectName": "PRY.API",
-        "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/PRY.API.csproj",
-        "packagesPath": "/Users/rafhael/.nuget/packages/",
-        "outputPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/FrontEndProyectoIntegrador/obj/",
+        "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\FrontEndProyectoIntegrador\\PRY.API.csproj",
+        "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\FrontEndProyectoIntegrador\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/PRY.DataAcces.csproj": {
-                "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/PRY.DataAcces.csproj"
+              "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Acces\\PRY.DataAcces.csproj": {
+                "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Acces\\PRY.DataAcces.csproj"
               },
-              "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj": {
-                "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj"
+              "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj": {
+                "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj"
               }
             }
           }
@@ -75,38 +80,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/PRY.DataAcces.csproj": {
+    "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Acces\\PRY.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/PRY.DataAcces.csproj",
+        "projectUniqueName": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Acces\\PRY.DataAcces.csproj",
         "projectName": "PRY.DataAcces",
-        "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/PRY.DataAcces.csproj",
-        "packagesPath": "/Users/rafhael/.nuget/packages/",
-        "outputPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Acces/obj/",
+        "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Acces\\PRY.DataAcces.csproj",
+        "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Acces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj": {
-                "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj"
+              "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj": {
+                "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj"
               },
-              "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/PRY.Domain.csproj": {
-                "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/PRY.Domain.csproj"
+              "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Domain\\PRY.Domain.csproj": {
+                "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Domain\\PRY.Domain.csproj"
               }
             }
           }
@@ -142,27 +153,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj": {
+    "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj",
         "projectName": "PRY.Common",
-        "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/PRY.Common.csproj",
-        "packagesPath": "/Users/rafhael/.nuget/packages/",
-        "outputPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Common/obj/",
+        "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\PRY.Common.csproj",
+        "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -196,27 +213,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/PRY.Domain.csproj": {
+    "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Domain\\PRY.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/PRY.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Domain\\PRY.Domain.csproj",
         "projectName": "PRY.Domain",
-        "projectPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/PRY.Domain.csproj",
-        "packagesPath": "/Users/rafhael/.nuget/packages/",
-        "outputPath": "/Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/obj/",
+        "projectPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Domain\\PRY.Domain.csproj",
+        "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joseph\\Desktop\\BackEnd Integrador\\ProyectoIntegradorBackEnd\\PRY.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -268,7 +291,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
         }
       }
     }

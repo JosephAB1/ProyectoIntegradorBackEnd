@@ -22,3 +22,15 @@ D:/ProyectoIntegradorFrontEnd/PRY.Domain/obj/Debug/net6.0/ref/PRY.Domain.dll
 /Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/obj/Debug/net6.0/refint/PRY.Domain.dll
 /Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/obj/Debug/net6.0/PRY.Domain.pdb
 /Users/rafhael/Desktop/Escritorio/CIBERTEC/Proyecto Integrador/ProyectoIntegradorBackEnd/PRY.Domain/obj/Debug/net6.0/ref/PRY.Domain.dll
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\bin\Debug\net6.0\PRY.Domain.deps.json
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\bin\Debug\net6.0\PRY.Domain.dll
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\bin\Debug\net6.0\PRY.Domain.pdb
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.dll
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\refint\PRY.Domain.dll
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\PRY.Domain.pdb
+C:\Users\Joseph\Desktop\BackEnd Integrador\ProyectoIntegradorBackEnd\PRY.Domain\obj\Debug\net6.0\ref\PRY.Domain.dll
